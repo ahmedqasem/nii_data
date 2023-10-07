@@ -10,10 +10,10 @@ import numpy as np
 import SimpleITK as sitk
 
 
-path_input_images = "dataset/images"
-path_input_labels = "dataset/labels"
-path_output_images = "dataset/images_resampled"
-path_output_labels = "dataset/labels_resampled"
+path_input_images = "../datasets/ADDA/original/images"
+path_input_labels = "../datasets/ADDA/original/labels"
+path_output_images = "../datasets/ADDA/resampled/images"
+path_output_labels = "../datasets/ADDA/resampled/labels"
 
 
 @click.command()
