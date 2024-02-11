@@ -165,4 +165,4 @@ dataset/
 trained_models/
 preview/
 logs/
-.DS_Store
+.DS*
