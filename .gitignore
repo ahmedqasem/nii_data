@@ -165,4 +165,7 @@ dataset/
 trained_models/
 preview/
 logs/
-.DS*
+*.DS_Store
+_3ch_create_nifti_seg_from3Models_ensemble.*
+./.DS_Store
+./notebooks/Untitled.ipynb
